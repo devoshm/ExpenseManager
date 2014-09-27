@@ -1,0 +1,1 @@
+$(function(){ Morris.Donut({ element: 'morris-donut-chart', data: [{label: 'Aditya', value: 87.34 },{label: 'Aswin', value: 71.00 },{label: 'Devosh', value: 73.67 },{label: 'Sathiyaraj', value: 87.34 },], resize: true }); });
